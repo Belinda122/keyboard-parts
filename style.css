@@ -5,22 +5,22 @@
 
 @font-face {
     font-family: Fira Code regular;
-    src: url(keyboards/font/FiraCode-Regular.ttf);
+    src: url(font/FiraCode-Regular.ttf);
 }
 
 @font-face {
     font-family: Fira Code medium;
-    src: url(keyboards/font/FiraCode-Medium.ttf);
+    src: url(font/FiraCode-Medium.ttf);
 }
 
 @font-face {
     font-family: Fira Code semibold;
-    src: url(keyboards/font/FiraCode-SemiBold.ttf);
+    src: url(font/FiraCode-SemiBold.ttf);
 }
 
 @font-face {
     font-family: Fira Code bold;
-    src: url(keyboards/font/FiraCode-Bold.ttf);
+    src: url(font/FiraCode-Bold.ttf);
 }
 
 body {
